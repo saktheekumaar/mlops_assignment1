@@ -28,12 +28,10 @@ jobs:
           pip install flake8
           flake8 iris.py
 
-    #   - name: Run Tests
-    #     run: |
-    #       python iris_model.py
       - name: Run Tests
         run: |
            python -m unittest discover
 
       - name: Deploy Model
-        run: echo "Deployment step here"
+        run: |
+          python iris.py
