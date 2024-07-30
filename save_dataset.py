@@ -8,5 +8,4 @@ iris = load_iris()
 data = pd.DataFrame(data=iris.data, columns=iris.feature_names)
 data['target'] = iris.target
 
-# Save dataset to CSV
 data.to_csv('iris.csv', index=False)
