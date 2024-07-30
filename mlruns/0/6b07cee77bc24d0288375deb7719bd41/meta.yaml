@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/Studies/Master%20Program/Third%20semester/MLOps/Practical/assignment/mlruns/0/6b07cee77bc24d0288375deb7719bd41/artifacts
+end_time: 1722231052575
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 6b07cee77bc24d0288375deb7719bd41
+run_name: silent-sow-93
+run_uuid: 6b07cee77bc24d0288375deb7719bd41
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722231052333
+status: 3
+tags: []
+user_id: Sakthi

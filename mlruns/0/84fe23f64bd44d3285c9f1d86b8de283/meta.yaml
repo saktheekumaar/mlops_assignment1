@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/Studies/Master%20Program/Third%20semester/MLOps/Practical/assignment/mlruns/0/84fe23f64bd44d3285c9f1d86b8de283/artifacts
+end_time: 1722230906538
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 84fe23f64bd44d3285c9f1d86b8de283
+run_name: intelligent-hog-187
+run_uuid: 84fe23f64bd44d3285c9f1d86b8de283
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722230906210
+status: 3
+tags: []
+user_id: Sakthi
